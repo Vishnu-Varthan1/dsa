@@ -1,4 +1,6 @@
+Nice 🚀 — I see you’ve added **binary-search.cpp** and **binarysearchtree.cpp** to your repo along with your existing DSA files. Let me now give you a **complete, upgraded README** that documents everything clearly and looks professional.
 
+---
 
 # 📘 DSA Practice Repository
 
@@ -16,29 +18,36 @@ The goal is to practice, learn, and improve problem-solving skills by writing cl
 
 ```
 dsa/
-│── basic/                 
-│   ├── removedDuplicates.cpp   # Remove duplicates from array/vector
-│   ├── reverse.cpp             # Reverse array/string logic
-│   └── build/Debug             # Compiler-generated files
+│── basic/                       # Basic C++ practice programs
+│   ├── removedDuplicates.cpp    # Remove duplicates from array/vector
+│   ├── reverse.cpp              # Reverse array/string logic
+│   └── build/Debug              # Compiler-generated files
 │
-│── postfix/                    # Postfix expression evaluation
-│── reverselinkedlist.cpp       # Reverse linked list implementation
-│── postfixexp.cpp              # Postfix evaluation logic
-│── postfixexp.exe              # Compiled executable (can be ignored in commits)
-│── .vscode/                    # VS Code configuration files
-│── README.md                   # Repository documentation
+│── binary-search.cpp            # Binary Search implementation
+│── binarysearchtree.cpp         # Binary Search Tree with insert & traversal
+│── reverselinkedlist.cpp        # Reverse linked list implementation
+│── postfixexp.cpp               # Postfix evaluation logic
+│── postfixexpp.cpp              # Alternative postfix evaluation
+│── postfixexp.exe               # Compiled executable (ignore in commits)
+│── postfix                      # Postfix evaluation data/file
+│── .vscode/                     # VS Code configuration files
+│── README.md                    # Repository documentation
 ```
 
 ---
 
 ## 📌 Problem Index
 
-| File/Folder                   | Problem/Topic  | Description                            |
-| ----------------------------- | -------------- | -------------------------------------- |
-| `basic/removedDuplicates.cpp` | Arrays         | Remove duplicates from an array/vector |
-| `basic/reverse.cpp`           | Arrays/Strings | Reverse an array or string             |
-| `reverselinkedlist.cpp`       | Linked List    | Reverse a linked list                  |
-| `postfixexp.cpp`              | Stack          | Postfix expression evaluation          |
+| File/Folder                   | Problem/Topic  | Description                                    |
+| ----------------------------- | -------------- | ---------------------------------------------- |
+| `basic/removedDuplicates.cpp` | Arrays         | Remove duplicates from an array/vector         |
+| `basic/reverse.cpp`           | Arrays/Strings | Reverse an array or string                     |
+| `binary-search.cpp`           | Searching      | Classic Binary Search implementation           |
+| `binarysearchtree.cpp`        | Trees          | Binary Search Tree with insert & traversal     |
+| `reverselinkedlist.cpp`       | Linked List    | Reverse a linked list                          |
+| `postfixexp.cpp`              | Stack          | Postfix expression evaluation                  |
+| `postfixexpp.cpp`             | Stack          | Alternate postfix expression evaluation        |
+| `postfix`                     | Stack          | Support for postfix logic (intermediate files) |
 
 ---
 
@@ -46,7 +55,7 @@ dsa/
 
 * 📚 Covers important DSA topics step by step
 * 🧩 Implementations in **C++**
-* 📝 Code is simple and beginner-friendly
+* 📝 Beginner-friendly code with comments
 * 🔄 Continuous updates with new problems and solutions
 
 ---
@@ -74,9 +83,11 @@ dsa/
 * [x] Arrays & Vectors
 * [x] Linked Lists
 * [x] Stacks & Queues (Postfix Evaluation)
+* [x] Binary Search
+* [x] Binary Search Tree
 * [ ] Recursion
 * [ ] Backtracking
-* [ ] Sorting & Searching
+* [ ] Sorting & Searching (Advanced)
 * [ ] Dynamic Programming
 
 ---
@@ -105,3 +116,13 @@ This repository is mainly for personal practice. But if you'd like to contribute
 4. Open a Pull Request
 
 ---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – you are free to use and modify the code.
+
+---
+
+✨ Now your README reflects **binary search + binary search tree** additions and looks like a professional **DSA archive repo**.
+
+Do you want me to also add a **small example code snippet** (like how binary search works) inside the README for extra clarity?
