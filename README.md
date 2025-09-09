@@ -1,6 +1,4 @@
-Nice 🚀 — I see you’ve added **binary-search.cpp** and **binarysearchtree.cpp** to your repo along with your existing DSA files. Let me now give you a **complete, upgraded README** that documents everything clearly and looks professional.
 
----
 
 # 📘 DSA Practice Repository
 
@@ -122,7 +120,3 @@ This repository is mainly for personal practice. But if you'd like to contribute
 This project is licensed under the **MIT License** – you are free to use and modify the code.
 
 ---
-
-✨ Now your README reflects **binary search + binary search tree** additions and looks like a professional **DSA archive repo**.
-
-Do you want me to also add a **small example code snippet** (like how binary search works) inside the README for extra clarity?
